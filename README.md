@@ -32,6 +32,35 @@ To detect this "Smart Spam," our system combines three AI components:
 - **Few-Shot Learning:** A fast-learning approach that achieves high accuracy even with limited data  
 
 ---
+## 📸 Advanced Multimodal Results
+
+### 🔴 Bengali Spam Detection (Text)
+![Bengali Spam](images/bengali_spam.png)
+
+---
+
+### 🖼️ Image-Based Spam Detection (Bank Phishing)
+![Image Spam Bank](images/image_spam_bank.png)
+
+---
+
+### 🟢 Image-Based Ham Detection
+![Image Ham](images/image_ham_example.png)
+
+---
+
+### 🟢 Telugu Ham Detection
+![Telugu Ham](images/telugu_ham.png)
+
+---
+
+### 🔴 Telugu Spam Detection (Text)
+![Telugu Spam](images/telugu_spam.png)
+
+---
+
+### 🔴 Hindi Image-Based Spam Detection
+![Hindi Image Spam](images/hindi_image_spam.png)
 
 ## 📈 The Results
 
